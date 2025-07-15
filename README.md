@@ -9,7 +9,7 @@
 ## 🛠️ Usage
 
 ```bash
-git clone https://github.com/yourname/epichook.git
+git clone https://github.com/AkyAwens/epichook.git
 cd epichook
 java -jar epichook.jar
 ```
